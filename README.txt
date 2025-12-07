@@ -33,7 +33,7 @@ No more surprise reboots in the middle of work, gaming, or streaming.
 
 You can download the latest installer from the **Releases** page:
 
-👉 **[Download SilentUpdate](https://github.com/xKaali/silentupdate-site/releases/download/v1.0.0/SilentUpdate-Setup-0.3.0.exe)**
+👉 **[Download SilentUpdate] (https://github.com/xKaali/silentupdate-site/releases/download/v1.0.0/SilentUpdate-Setup-0.3.0.exe)
 
 > If your browser or Windows SmartScreen shows a warning, click **More info → Run anyway**.  
 > This is expected for new, unsigned executables from small publishers.
@@ -98,4 +98,5 @@ Right now SilentUpdate is a closed, single-publisher utility, but:
 
 This project is licensed under the **MIT License**.  
 See the [`LICENSE`](LICENSE) file for details.
+
 
